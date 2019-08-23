@@ -1,0 +1,8 @@
+#teff(color):
+https://www.sdss.org/dr15/manga/manga-data/
+
+#bolometric corrections:
+http://waps.cfa.harvard.edu/MIST/model_grids.html#bolometric
+
+#milky way GC data:
+http://physwww.mcmaster.ca/~harris/mwgc.dat
